@@ -6,13 +6,10 @@
 
 A comprehensive tool for checking the health and security status of your Android device. This tool provides detailed information about your device's performance, installed applications, and potential security issues.
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 ![Android Health Check Main Screen](images/screenshot.png)
-_Main screen showing device health information_
 
-![Android Health Check Security Analysis](images/screenshot_security.png)
-_Security analysis results_
 
 > **Note:** To use this tool, you'll need to connect your Android device via USB with debugging enabled.
 
